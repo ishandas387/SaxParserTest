@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<!DOCTYPE bookmap PUBLIC "" "bookmap.dtd">
+<bookmap id="Root1">
+<?id Root1?>
+<?ver 0.1?>
+<booktittle class="-topic/title bookmap/booktile"><mainbooktitle class="-topic/ph bookmap/mainbooktitle">ROOT1PC</mainbooktitle>
+</booktile>
+<chapter href="child1.ditamap" navtitle="A" type="map"></chapter>
+<chapter href="child2.ditamap" navtitle="B" type="map"></chapter>
+<!--
+<chapter href="child3.ditamap" navtitle="C" type="map"></chapter>
+<chapter href="child4.ditamap" navtitle="D" type="map"></chapter>
+<chapter href="child5.ditamap" navtitle="D" type="map"></chapter>
+-->
+
+</bookmap>   

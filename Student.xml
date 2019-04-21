@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student graduated="true">
+        <id>1</id>
+        <name>xyz</name>
+    </student>
+    <student>
+        <id>2</id>
+        <name>abc</name>
+    </student>
+</students>

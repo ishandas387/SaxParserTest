@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map id="child1" title="A" >
+<?ver 0.1?>
+<topicref href="child11PC.ditamap" navtitle="A1" type="map "></topicref>
+<topicref href="child12PC.ditamap" navtitle="A2" type="map"></topicref>
+</map>
